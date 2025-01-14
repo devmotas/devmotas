@@ -15,8 +15,10 @@ Obrigado por visitar meu perfil! Se precisar de algo ou tiver dúvidas, é só m
   <a href="https://linkedin.com/in/devmotas" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30"
       width="40" /></a>
-  <a href='https://www.github.com/devmotas'> <img width='44px' align='center'
-      src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966" /></a>
+
+<a href="https://www.github.com/devmotas" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" height="30" width="40" />
+</a>
 </p>
 
 <h2 align="center">Sobre:</h2>
