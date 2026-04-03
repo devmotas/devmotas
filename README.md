@@ -1,10 +1,10 @@
-<h1 align='center'> Olá, sou Gustavo Mota <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px> <br />
+<h1 align='center'> Olá, sou Gustavo Mota <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px height=40px> <br />
   Desenvolvedor Fullstack | Kotlin & Spring Boot | Angular </h1>
 
 <div align="center">
   <img width="300px" 
     src="https://github.com/devmotas/gphilippem/blob/main/.github/workflows/EU.png?raw=true" 
-    alt="Gustavo Mota" style="border-radius: 50%" />
+    alt="Gustavo Mota" />
 </div>
 
 <p align='center'>
@@ -50,19 +50,12 @@ Especialista no ecossistema <b>JVM (Kotlin/Java)</b> e <b>Frontend (Angular 16+)
 
 ### 📊 Estatísticas
 
-<div align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=devmotas&count_private=true&show_icons=true&theme=radical" />
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=devmotas&count_private=true&show_icons=true&theme=radical" />
 </a>
-
 <a href="https://github.com/anuraghazra/convoychat">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmotas&theme=radical" />
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmotas&theme=radical" />
 </a>
-</div>
 
 <br />
 
