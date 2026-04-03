@@ -51,12 +51,17 @@ Especialista no ecossistema <b>JVM (Kotlin/Java)</b> e <b>Frontend (Angular 16+)
 ### 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=devmotas&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmotas&layout=compact&theme=radical&hide=csharp,flutter" />
-  </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=devmotas&count_private=true&show_icons=true&theme=radical" />
+
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmotas&theme=radical" />
+
+</a>
 </div>
 
 <br />
